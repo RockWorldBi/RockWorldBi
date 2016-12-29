@@ -1,0 +1,9 @@
+Building ROCK WORLD BI
+
+See doc/readme-qt.rst for instructions on building ROCK WORLD BI QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ROCK WORLD BI.
+
+See doc/build-*.txt for instructions on building ROCK WORLD BI,
+the intended-for-services, no-graphical-interface, reference
+implementation of ROCK WORLD BI.
